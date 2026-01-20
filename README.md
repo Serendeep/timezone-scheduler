@@ -26,6 +26,6 @@ npm install
 npm run dev
 ```
 
-## License
+## [License](https://github.com/Serendeep/timezone-scheduler/blob/master/LICENSE)
 
 MIT
